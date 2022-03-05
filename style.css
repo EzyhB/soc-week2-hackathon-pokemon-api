@@ -1,0 +1,57 @@
+body {
+  background-image: url("https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77700142688.jpg");
+  background-color: antiquewhite;
+}
+
+#search-bar {
+  position: fixed;
+  top: 230px;
+  right: 750px;
+  width: 300px;
+  border: 3px solid #73ad21;
+}
+
+#submit {
+  padding: 9px;
+  position: fixed;
+  top: 231px;
+  right: 685px;
+}
+
+#box2 {
+  position: fixed;
+  top: 290px;
+  right: 810px;
+  text-shadow: 2px 2px 5px rgb(245, 201, 6);
+  font-family: "Copperplate", fantasy;
+}
+
+#spinner {
+  position: fixed;
+  top: 235px;
+  right: 1055px;
+}
+
+#pokemon-img {
+  position: absolute;
+  top: 350px;
+  right: 700px;
+}
+
+#pokemon-info {
+  position: absolute;
+  top: 40px;
+  right: 170px;
+}
+
+#infoTab {
+  position: absolute;
+  right: 80px;
+  top: 360px;
+  background-color: rgb(255, 255, 255, 0.5);
+  /* opacity: 0.7; */
+  width: 500px;
+  border: 5px solid rgb(51, 48, 48, 0.1);
+  padding: 100px;
+  border-radius: 25px;
+}
